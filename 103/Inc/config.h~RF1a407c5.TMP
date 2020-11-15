@@ -1,0 +1,7 @@
+#ifndef __CONFIG_H__
+#define __CONFIG_H__
+
+#define MOTOR_REVERSE 1
+#define ENCODER_REVERSE 0
+
+#endif

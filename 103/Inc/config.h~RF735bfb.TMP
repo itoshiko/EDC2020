@@ -1,0 +1,10 @@
+#ifndef __CONFIG_H__
+#define __CONFIG_H__
+
+#define PID_EN 1
+#define IWDG_EN 0
+#define BAT_CHECK 0
+#define MOTOR_REVERSE 1
+#define ENCODER_REVERSE 0
+
+#endif
